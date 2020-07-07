@@ -1,7 +1,7 @@
 import discord
 from discord.ext import tasks, commands
 
-token = "NzI5NTcxMjk2OTU4MjE4MjUw.XwK6gA.5LqIhriwyHI5thu1UH0oGQU6y5Y"
+token = ""
 
 class MyClient(discord.Client):
     async def on_ready(self):
